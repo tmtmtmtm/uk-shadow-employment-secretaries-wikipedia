@@ -1,0 +1,143 @@
+[
+  {
+    "item": {
+      "value": "Q2883936",
+      "label": "Barbara Castle, Baroness Castle of Blackburn"
+    },
+    "replacedBy": {
+      "value": "Q9576",
+      "label": "James Callaghan"
+    },
+    "start": {
+      "value": "1970-06-19T00:00:00Z",
+      "precision": "11"
+    },
+    "end": {
+      "value": "1971-10-19T00:00:00Z",
+      "precision": "11"
+    },
+    "statement": "Q2883936$0E05E4A7-90CF-4096-85DB-2ED64C8E4FA4"
+  },
+  {
+    "item": {
+      "value": "Q9576",
+      "label": "James Callaghan"
+    },
+    "replaces": {
+      "value": "Q2883936",
+      "label": "Barbara Castle, Baroness Castle of Blackburn"
+    },
+    "replacedBy": {
+      "value": "Q332360",
+      "label": "Denis Healey"
+    },
+    "start": {
+      "value": "1971-10-19T00:00:00Z",
+      "precision": "11"
+    },
+    "end": {
+      "value": "1972-04-19T00:00:00Z",
+      "precision": "11"
+    },
+    "statement": "Q9576$94A6C3AD-C0FB-4132-812A-2D9D054F3865"
+  },
+  {
+    "item": {
+      "value": "Q4816857",
+      "label": "Reg Prentice, Baron Prentice"
+    },
+    "replaces": {
+      "value": "Q9576",
+      "label": "James Callaghan"
+    },
+    "replacedBy": {
+      "value": "Q333963",
+      "label": "Willie Whitelaw"
+    },
+    "start": {
+      "value": "1972-04-19T00:00:00Z",
+      "precision": "11"
+    },
+    "end": {
+      "value": "1974-03-05T00:00:00Z",
+      "precision": "11"
+    },
+    "statement": "Q4816857$B6E35230-EC44-4B4F-AB9F-320F46140F53"
+  },
+  {
+    "item": {
+      "value": "Q333412",
+      "label": "James Prior, Baron Prior"
+    },
+    "replaces": {
+      "value": "Q4816857",
+      "label": "Reg Prentice, Baron Prentice"
+    },
+    "replacedBy": {
+      "value": "Q262749",
+      "label": "Albert Booth"
+    },
+    "start": {
+      "value": "1974-10-29T00:00:00Z",
+      "precision": "11"
+    },
+    "end": {
+      "value": "1979-05-04T00:00:00Z",
+      "precision": "11"
+    },
+    "statement": "Q333412$5BD4110F-E804-4039-8393-D3C3151DC1EE"
+  },
+  {
+    "item": {
+      "value": "Q332377",
+      "label": "John Smith"
+    },
+    "start": {
+      "value": "1983-10-02T00:00:00Z",
+      "precision": "11"
+    },
+    "end": {
+      "value": "1984-10-26T00:00:00Z",
+      "precision": "11"
+    },
+    "statement": "Q332377$32ACCEBD-A148-4B8A-99D2-4F9154799879"
+  },
+  {
+    "item": {
+      "value": "Q300182",
+      "label": "Frank Dobson"
+    },
+    "replaces": {
+      "value": "Q9545",
+      "label": "Tony Blair"
+    },
+    "replacedBy": {
+      "value": "Q332393",
+      "label": "John Prescott"
+    },
+    "start": {
+      "value": "1992-07-18T00:00:00Z",
+      "precision": "11"
+    },
+    "end": {
+      "value": "1993-10-21T00:00:00Z",
+      "precision": "11"
+    },
+    "statement": "Q300182$804255C7-82C3-46B9-A33C-2CDD19850ED4"
+  },
+  {
+    "item": {
+      "value": "Q264766",
+      "label": "Theresa May"
+    },
+    "start": {
+      "value": "1999-06-15T00:00:00Z",
+      "precision": "11"
+    },
+    "end": {
+      "value": "2001-09-18T00:00:00Z",
+      "precision": "11"
+    },
+    "statement": "Q264766$76967d9f-46c7-4264-7709-1969b3901671"
+  }
+]
