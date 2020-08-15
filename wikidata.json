@@ -66,6 +66,29 @@
   },
   {
     "item": {
+      "value": "Q333963",
+      "label": "Willie Whitelaw"
+    },
+    "replaces": {
+      "value": "Q4816857",
+      "label": "Reg Prentice, Baron Prentice"
+    },
+    "replacedBy": {
+      "value": "Q333412",
+      "label": "James Prior, Baron Prior"
+    },
+    "start": {
+      "value": "1974-03-11T00:00:00Z",
+      "precision": "11"
+    },
+    "end": {
+      "value": "1974-10-29T00:00:00Z",
+      "precision": "11"
+    },
+    "statement": "Q333963$CE71DF66-A356-4A4B-9458-ADC9849F8E25"
+  },
+  {
+    "item": {
       "value": "Q333412",
       "label": "James Prior, Baron Prior"
     },
@@ -89,6 +112,52 @@
   },
   {
     "item": {
+      "value": "Q262749",
+      "label": "Albert Booth"
+    },
+    "replaces": {
+      "value": "Q333412",
+      "label": "James Prior, Baron Prior"
+    },
+    "replacedBy": {
+      "value": "Q334327",
+      "label": "Eric Varley"
+    },
+    "start": {
+      "value": "1979-05-04T00:00:00Z",
+      "precision": "11"
+    },
+    "end": {
+      "value": "1979-07-14T00:00:00Z",
+      "precision": "11"
+    },
+    "statement": "Q262749$3FF1856C-9172-4955-B15D-57B1956B4A2D"
+  },
+  {
+    "item": {
+      "value": "Q334327",
+      "label": "Eric Varley"
+    },
+    "replaces": {
+      "value": "Q262749",
+      "label": "Albert Booth"
+    },
+    "replacedBy": {
+      "value": "Q332377",
+      "label": "John Smith"
+    },
+    "start": {
+      "value": "1979-07-14T00:00:00Z",
+      "precision": "11"
+    },
+    "end": {
+      "value": "1983-10-31T00:00:00Z",
+      "precision": "11"
+    },
+    "statement": "Q334327$65C51A2A-23CB-4BCC-8C9F-0B779B3A004F"
+  },
+  {
+    "item": {
       "value": "Q332377",
       "label": "John Smith"
     },
@@ -101,6 +170,75 @@
       "precision": "11"
     },
     "statement": "Q332377$32ACCEBD-A148-4B8A-99D2-4F9154799879"
+  },
+  {
+    "item": {
+      "value": "Q332393",
+      "label": "John Prescott"
+    },
+    "replaces": {
+      "value": "Q332377",
+      "label": "John Smith"
+    },
+    "replacedBy": {
+      "value": "Q583993",
+      "label": "Michael Meacher"
+    },
+    "start": {
+      "value": "1984-10-26T00:00:00Z",
+      "precision": "11"
+    },
+    "end": {
+      "value": "1987-07-13T00:00:00Z",
+      "precision": "11"
+    },
+    "statement": "Q332393$CE6AB6A1-53C9-4302-A324-7AB810FCD2B9"
+  },
+  {
+    "item": {
+      "value": "Q583993",
+      "label": "Michael Meacher"
+    },
+    "replaces": {
+      "value": "Q332393",
+      "label": "John Prescott"
+    },
+    "replacedBy": {
+      "value": "Q9545",
+      "label": "Tony Blair"
+    },
+    "start": {
+      "value": "1987-07-13T00:00:00Z",
+      "precision": "11"
+    },
+    "end": {
+      "value": "1989-11-02T00:00:00Z",
+      "precision": "11"
+    },
+    "statement": "Q583993$6B9931AC-3804-4E39-91FB-8531E9A26167"
+  },
+  {
+    "item": {
+      "value": "Q9545",
+      "label": "Tony Blair"
+    },
+    "replaces": {
+      "value": "Q583993",
+      "label": "Michael Meacher"
+    },
+    "replacedBy": {
+      "value": "Q300182",
+      "label": "Frank Dobson"
+    },
+    "start": {
+      "value": "1989-11-02T00:00:00Z",
+      "precision": "11"
+    },
+    "end": {
+      "value": "1992-07-18T00:00:00Z",
+      "precision": "11"
+    },
+    "statement": "Q9545$289655A8-41CF-4456-9695-9C52C91F2ECC"
   },
   {
     "item": {
@@ -124,6 +262,144 @@
       "precision": "11"
     },
     "statement": "Q300182$804255C7-82C3-46B9-A33C-2CDD19850ED4"
+  },
+  {
+    "item": {
+      "value": "Q332393",
+      "label": "John Prescott"
+    },
+    "replaces": {
+      "value": "Q300182",
+      "label": "Frank Dobson"
+    },
+    "replacedBy": {
+      "value": "Q234182",
+      "label": "Harriet Harman"
+    },
+    "start": {
+      "value": "1993-10-21T00:00:00Z",
+      "precision": "11"
+    },
+    "end": {
+      "value": "1994-10-20T00:00:00Z",
+      "precision": "11"
+    },
+    "statement": "Q332393$9C061681-5A8D-44BE-BE8B-BA39C730D063"
+  },
+  {
+    "item": {
+      "value": "Q234182",
+      "label": "Harriet Harman"
+    },
+    "replaces": {
+      "value": "Q332393",
+      "label": "John Prescott"
+    },
+    "replacedBy": {
+      "value": "Q264196",
+      "label": "David Blunkett"
+    },
+    "start": {
+      "value": "1994-10-20T00:00:00Z",
+      "precision": "11"
+    },
+    "end": {
+      "value": "1995-10-19T00:00:00Z",
+      "precision": "11"
+    },
+    "statement": "Q234182$B0CF028B-1AAF-44EA-A9FE-6A01C1EA314B"
+  },
+  {
+    "item": {
+      "value": "Q264196",
+      "label": "David Blunkett"
+    },
+    "replaces": {
+      "value": "Q234182",
+      "label": "Harriet Harman"
+    },
+    "replacedBy": {
+      "value": "Q333058",
+      "label": "Gillian Shephard"
+    },
+    "start": {
+      "value": "1995-10-19T00:00:00Z",
+      "precision": "11"
+    },
+    "end": {
+      "value": "1997-05-02T00:00:00Z",
+      "precision": "11"
+    },
+    "statement": "Q264196$DAE903DA-DED5-4C7C-B48B-A49E382F8A16"
+  },
+  {
+    "item": {
+      "value": "Q333058",
+      "label": "Gillian Shephard"
+    },
+    "replaces": {
+      "value": "Q264196",
+      "label": "David Blunkett"
+    },
+    "replacedBy": {
+      "value": "Q300349",
+      "label": "Stephen Dorrell"
+    },
+    "start": {
+      "value": "1997-05-02T00:00:00Z",
+      "precision": "11"
+    },
+    "end": {
+      "value": "1997-06-11T00:00:00Z",
+      "precision": "11"
+    },
+    "statement": "Q333058$61017000-0B93-44C3-9BC3-5A3DAF61FC8B"
+  },
+  {
+    "item": {
+      "value": "Q300349",
+      "label": "Stephen Dorrell"
+    },
+    "replaces": {
+      "value": "Q333058",
+      "label": "Gillian Shephard"
+    },
+    "replacedBy": {
+      "value": "Q266064",
+      "label": "David Willetts"
+    },
+    "start": {
+      "value": "1997-06-11T00:00:00Z",
+      "precision": "11"
+    },
+    "end": {
+      "value": "1998-06-15T00:00:00Z",
+      "precision": "11"
+    },
+    "statement": "Q300349$61E83B51-5FEA-44E3-82B9-2EBA23EC683E"
+  },
+  {
+    "item": {
+      "value": "Q266064",
+      "label": "David Willetts"
+    },
+    "replaces": {
+      "value": "Q300349",
+      "label": "Stephen Dorrell"
+    },
+    "replacedBy": {
+      "value": "Q264766",
+      "label": "Theresa May"
+    },
+    "start": {
+      "value": "1998-06-01T00:00:00Z",
+      "precision": "11"
+    },
+    "end": {
+      "value": "1999-06-15T00:00:00Z",
+      "precision": "11"
+    },
+    "statement": "Q266064$40FE4B5C-D156-43B0-B980-A5EB8D2A4F13"
   },
   {
     "item": {
